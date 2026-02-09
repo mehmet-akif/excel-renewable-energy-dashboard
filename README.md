@@ -37,7 +37,7 @@ It demonstrates how Excel can be used as a lightweight analytics tool for report
 
 
 ## Dashboard Preview
-![Dashboard](assets/dashboard-preview.png)
+![Dashboard](dashboard.png)
 
 ---
 
